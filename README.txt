@@ -1,4 +1,4 @@
-ParsWorker v.1.0
+ParsWorker v.2.1
 
 
 
